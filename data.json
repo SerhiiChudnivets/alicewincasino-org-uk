@@ -2,7 +2,6 @@
   "name": "alicewincasino.org.uk",
   "site_name": "AliceWin Casino | 11,000+ Games, Jackpot & Sports Betting",
   "html_head": "<meta name=\"google-site-verification\" content=\"wlggXWrFkLc9pikCGvPMW6sK-bmGAJPy6LjLvNj8Fs0\" />\n<link rel=\"canonical\" href=\"https://alicewincasino.org.uk/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"AliceWin Casino | 11,000+ Games, Jackpot & Sports Betting\">\n<meta property=\"og:description\" content=\"Enter AliceWin Casino and explore 11,000+ games, live dealers, a €1,000,000 jackpot and sports betting with Early Payout. Discover your Wonderland!\">\n<meta property=\"og:url\" content=\"https://alicewincasino.org.uk/\">\n<meta property=\"og:site_name\" content= \"AliceWin Casino\">\n",
-  "url": "alicewincasino.org.uk",
   "template": "tupchiy",
   "language_code": "en-GB",
   "allow_indexing": true,
@@ -309,10 +308,10 @@
   "main_background": "#14090f",
   "secondary_background": "#281e33",
   "button_background": "#daa7ff",
-  "button_text_color": "#ffffff",
+  "button_text_color": "#000000",
   "text_color": "#e4e4f1",
   "color_highlight_text": "#ffffff",
-  "color_main_btn_text": "#e4e4f1",
+  "color_main_btn_text": "#000000",
   "cta_background": "#daa7ff",
   "logo": {
     "url": "/uploads/alicewin-logo.webp"
@@ -496,8 +495,9 @@
       "question": "What happens if my identity verification is unsuccessful?"
     }
   ],
-  "_generated_at": "2026-11-23T16:04:39.884Z",
+  "url": "alicewincasino.org.uk",
+  "_generated_at": "2026-11-23T16:11:33.178Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-23T16:04:40.594Z",
-  "_deploy_trigger": "32uybe"
+  "_last_deploy": "2026-11-23T16:11:33.963Z",
+  "_deploy_trigger": "2f9uzp"
 }
